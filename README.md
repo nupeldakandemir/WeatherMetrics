@@ -1,15 +1,17 @@
 # WeatherMetrics
 
 
-A weather data analysis repository that processes and visualizes temperature and humidity data, providing insights into weather patterns and conditions. This project reads weather data from a file, calculates average temperatures for different weather conditions, and displays the results in a clear bar graph. It is designed for users interested in climate data analysis and visualization, offering a simple approach to understanding trends and variations in weather.
+
+Hava durumu verilerini işleyen ve görselleştiren bir analiz reposudur. Bu proje, bir dosyadan hava durumu verilerini okuyarak, farklı hava durumu koşulları için ortalama sıcaklıkları hesaplar ve sonuçları açık bir çubuk grafikte sunar. İklim verisi analizi ve görselleştirmeye ilgi duyan kullanıcılar için basit bir yaklaşım sunarak, hava durumu eğilimleri ve değişimlerini anlamayı kolaylaştırır.
 
 ![8](https://github.com/user-attachments/assets/05690720-1e80-4b08-b336-007df237dc1c)
 
 
-**Key Features:**
-- Reads and processes weather data from a text file.
-- Computes the average temperature for different weather conditions.
-- Visualizes the data using bar graphs.
-- Displays detailed results with average temperatures and data point counts.
+**Öne Çıkan Özellikler:**
+- Hava durumu verilerini bir metin dosyasından okur ve işler.
+- Farklı hava durumu koşulları için ortalama sıcaklıkları hesaplar.
+- Verileri çubuk grafik ile görselleştirir.
+- Ortalama sıcaklıklar ve veri noktası sayıları ile detaylı sonuçlar gösterir.
 
   ![8 5](https://github.com/user-attachments/assets/dd1f0737-ffcc-4cac-b077-686d9244baee)
+
